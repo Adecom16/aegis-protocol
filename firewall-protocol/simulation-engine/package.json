@@ -1,0 +1,13 @@
+{
+  "name": "simulation-engine",
+  "version": "1.0.0",
+  "main": "src/simulator.js",
+  "scripts": {
+    "test": "npx ts-node tests/simulation.test.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.1"
+  }
+}

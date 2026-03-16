@@ -1,0 +1,7 @@
+{
+    "guardianId": "guardian-node-01",
+    "rpcUrl": "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
+    "stakeAddress": "0xYourStakingWalletAddress",
+    "alertWebhook": "https://discord.com/api/webhooks/...",
+    "logLevel": "info"
+}
